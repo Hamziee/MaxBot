@@ -10,4 +10,4 @@
 
 * More info on the bot soon
 
-
+*This is an issues-only repository. MaxBot is not open source at this time, please instead refer to the [MaxBot Wiki](https://github.com/Hamziee/MaxBot/wiki) for more information.*
