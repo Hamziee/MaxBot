@@ -4,7 +4,7 @@
 
 # MaxBot
 
-> This bot is used by more than 2,000 Discord users and more than 50 servers.
+> This bot is used by more than 30,000 Discord users and more than 30 servers.
 
 ## Features
 
