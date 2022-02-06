@@ -1,35 +1,48 @@
-# Welcome to Hamzie's Hub
-
-# Downloads:
-
-https://github.com/Hamziee/Hamzies-Hub/releases
-
-# About Hamzie's Hub:
-
-Hamzie's Hub is a Roblox Script. That gives you the best Exploit Scripts for all the supported games! And everyday there are more games added. Hamzie's Hub comes with its own executor, so NO KEY BULLSHIT!
-
-# Status:
->
-✔: Online & Working
->
-❗: Can be risky
->
-✳: Being worked on, it might be glitchy and not work.
->
-❌: Offline
-
-## Main:
->
-Hamzie's Hub Launcher: ✔
->
-Hamzie's Hub Roblox Exploit: ✔
-
-## Games:
->
-[Mad City](https://www.roblox.com/games/1224212277/Mad-City): ✔ (Auto-Rob might not work, you will need to wait for MadLandsAR to fix it)
->
-[Ninja Legends](https://www.roblox.com/games/3956818381/Ninja-Legends): ✔
->
-* `Updated on 22:20 - Sunday, 6 February 2022 (CET)`
+*This is an issues-only repository. MaxBot is not open source at this time, please instead refer to the [MaxBot Wiki](https://github.com/Hamziee/MaxBot/wiki) for more information.*
 
 
+
+# MaxBot
+
+> This bot is used by more than 30,000 Discord users and more than 30 servers.
+
+## Features
+
+### Complete Bot
+
+MaxBot offers (non-exhaustive list):
+*   ✉️ Support for commands in direct messages
+*   🇫🇷 Support for translations (illimited languages)
+*   ⚙️ Guild configuration (prefix, ignored channels, etc...)
+*   😀 Commands made pleasant thanks to the many emojis
+*   🗳️ Support for Discordbots.org votes with rewards
+
+MaxBot also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+
+### Many commands
+
+MaxBot has a lot of features, with **7 main categories**:
+
+*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
+*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
+*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **2** more! 
+*   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **6** more! 
+*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **6** more! 
+*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more! 
+*   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
+
+[See the full commands list](https://github.com/Hamziee/MaxBot/wiki)
+
+### A powerful Dashboard
+
+MaxBot has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
+
+## Links
+
+*   [Commands List](https://github.com/Hamziee/MaxBot/wiki/)
+*   [Guide](https://github.com/Hamziee/MaxBot/wiki/)
+*   [F.A.Q](https://github.com/Hamziee/MaxBot/wiki/)
+*   [Discord](https://discord.gg/XzeFnktTdK)
+*   [Twitter](https://twitter.com/HamzieRl)
+*   [Github](https://github.com/Hamziee/MaxBot/)
+*   [Dashboard](https://www.maxbot.ga/)
